@@ -10,5 +10,6 @@ public class Class1TeskPkg {
         System.out.println("Pizza Test");
         System.out.println("Kerim Test Push");
         System.out.println("PULL OR FETCH");
+        System.out.println("ManagerTest");
     }
 }
